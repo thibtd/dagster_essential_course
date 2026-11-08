@@ -1,6 +1,6 @@
 name: quality-check-dagster-and-etl
 
-# on:
+on:
 #   schedule:
 #     - cron: "0 0 * * 0"
 

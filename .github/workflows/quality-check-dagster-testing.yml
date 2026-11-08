@@ -1,6 +1,6 @@
 name: quality-check-dagster-testing
 
-# on:
+on:
 #   schedule:
 #     - cron: "0 0 * * 0"
 

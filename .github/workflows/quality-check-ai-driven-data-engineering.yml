@@ -1,6 +1,6 @@
 name: quality-check-ai-driven-data-engineering
 
-# on:
+on:
 #   schedule:
 #     - cron: "0 0 * * 0"
 
